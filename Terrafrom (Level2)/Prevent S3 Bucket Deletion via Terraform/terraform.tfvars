@@ -1,0 +1,1 @@
+KKE_BUCKET_NAME = "nautilus-s3-15959"

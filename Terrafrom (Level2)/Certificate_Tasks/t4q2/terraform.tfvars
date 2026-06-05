@@ -1,0 +1,1 @@
+KKE_BUCKET_NAME = "xfusion-s3-6840-t4q2"
